@@ -1,6 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 echo "The school is open!
 =======
 school
 >>>>>>> 92f921361ad3d37ed3fdceb1dac8058d9385cc34
+||||||| 92f9213
+school
+=======
+#!/bin/bash
+echo school
+>>>>>>> master
